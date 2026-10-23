@@ -1,0 +1,1 @@
+import{j as t,F as l,e as p}from"./translations-1nwfxi5a.js";function c({label:n,hint:a,error:o,required:s,className:e,...r}){return t.jsx(l,{label:n,hint:a,error:o,required:s,className:e,children:i=>t.jsx("input",{required:s,className:p,...i,...r})})}export{c as I};

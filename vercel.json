@@ -1,0 +1,4 @@
+{
+    "rewrites": [{ "source": "/demo/:path*", "destination": "/demo/index.html" }],
+    "headers": [{ "source": "/demo/:path*", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] }]
+}

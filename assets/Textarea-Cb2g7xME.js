@@ -1,0 +1,1 @@
+import{j as a,F as l,a as i,e as j}from"./translations-1nwfxi5a.js";function p({label:e,hint:t,error:r,required:s,className:n,rows:o=4,...x}){return a.jsx(l,{label:e,hint:t,error:r,required:s,className:n,children:c=>a.jsx("textarea",{required:s,rows:o,className:i(j,"py-2"),...c,...x})})}export{p as T};
